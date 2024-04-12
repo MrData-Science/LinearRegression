@@ -6,7 +6,7 @@ El modelo utiliza el año como variable independiente (predictora) y la poblaci�
 
 Al ajustar el modelo de regresión lineal a los datos históricos de población mundial a lo largo de los años, podemos obtener una línea que mejor se ajuste a estos datos. Esta línea nos permite hacer predicciones sobre la población futura en función de los años que aún no han ocurrido.
 
-[Explora el análisis completo aqui](mi_notebook.ipynb)
+[Explora el análisis completo aqui](RegresionLineal.ipynb)
 
 ![Imagen del modelo](./reg.jpg)
 
