@@ -1,4 +1,4 @@
-# Linear Regression
+# Regresión Lineal
 
 El modelo de regresión lineal utilizado tiene como objetivo predecir la población mundial en función del año. Se basa en la suposición de que existe una relación lineal entre el año y la población, lo que significa que el crecimiento o la disminución de la población a lo largo del tiempo puede ser modelado como una línea recta.
 
